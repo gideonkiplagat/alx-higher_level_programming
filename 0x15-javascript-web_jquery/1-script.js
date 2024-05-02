@@ -1,3 +1,3 @@
 const $headerElem = $('header');
 
-$headerElem.css('color', '#FF0000')
+$headerElem.css('color', '#FF0000');
